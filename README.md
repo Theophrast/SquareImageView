@@ -1,4 +1,4 @@
-![logo](https://github.com/Theophrast/FSDialog/blob/master/gfx/logo/squareimageview_logo_256.png)
+![logo](https://github.com/Theophrast/SquareImageView/blob/master/gfx/logo/squareimageview_logo_256.png)
 # SquareImageView
 [![](https://jitpack.io/v/Theophrast/SquareImageView.svg)](https://jitpack.io/#Theophrast/SquareImageView)
 
@@ -9,8 +9,8 @@ Simple wrapper library for Android ImageView.
 If you need an always square or rectangular Imageview, SquareImageView is for you.
 
 
-![demo1](https://github.com/Theophrast/FSDialog/blob/master/gfx/screenshots/img_demo_01.png)
-![demo1](https://github.com/Theophrast/FSDialog/blob/master/gfx/screenshots/img_demo_02.png)
+![demo1](https://github.com/Theophrast/SquareImageView/blob/master/gfx/screenshots/img_demo_01.png)
+![demo1](https://github.com/Theophrast/SquareImageView/blob/master/gfx/screenshots/img_demo_02.png)
 
 
 
@@ -32,7 +32,7 @@ Check the sample for more details.
 
 #### Different ratios
 For a rectangular shaped ImageView, set the hwRatio (height:width ratio) :
-![demo1](https://github.com/Theophrast/FSDialog/blob/master/gfx/screenshots/img_demo_03.png)
+![demo1](https://github.com/Theophrast/SquareImageView/blob/master/gfx/screenshots/img_demo_03.png)
 
 ```xml
     <com.theophrast.ui.widget.SquareImageView
