@@ -43,7 +43,7 @@
                 android:layout_height="wrap_content"
                 android:layout_below="@+id/textView"
                 android:layout_marginStart="18dp"
-                android:layout_marginBottom="60dp"
+                android:layout_marginBottom="80dp"
                 android:layout_marginTop="12dp"
                 android:text="by Theophrast"
                 android:textColor="#FFF"
@@ -68,7 +68,7 @@
                         android:layout_gravity="bottom"
                         android:layout_marginBottom="12dp"
                         android:layout_marginStart="12sp"
-                        android:text="Want a sqare shaped image?"
+                        android:text="Want a square shaped image?"
                         android:textSize="18sp"
                         android:textStyle="bold" />
 
