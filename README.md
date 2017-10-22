@@ -32,6 +32,7 @@ Check the sample for more details.
 
 #### Different ratios
 For a rectangular shaped ImageView, set the hwRatio (height:width ratio) :
+
 ![demo1](https://github.com/Theophrast/SquareImageView/blob/master/gfx/screenshots/img_demo_03.png)
 
 ```xml
